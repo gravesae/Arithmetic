@@ -1,0 +1,5 @@
+D:\My Visual Studio Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+D:\My Visual Studio Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+D:\My Visual Studio Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\My Visual Studio Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+D:\My Visual Studio Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
