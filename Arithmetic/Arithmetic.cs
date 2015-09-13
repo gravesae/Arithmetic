@@ -4,6 +4,8 @@
 
 using System;
 
+//Grade: 10/10 great job
+
 public class Arithmetic
 {
     public static void Main(string[] args)
